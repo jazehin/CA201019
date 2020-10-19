@@ -69,6 +69,7 @@ namespace CA201019
             Console.ReadKey();
             Console.Clear();
 
+            //két oldala alapján téglalap kerülete-területe
             KerTer(5, 10);
             KerTer(3, 20);
             KerTer(10);
@@ -76,8 +77,11 @@ namespace CA201019
             Console.ReadKey();
             Console.Clear();
 
+            //háromszög-egyenlőtlenség
             HaromszogE(10, 15, 20);
             HaromszogE(10, 15, 25);
+
+            //folytköv
 
 
             Console.ReadKey();
